@@ -4,6 +4,6 @@ title: "About"
 
 About this site
 
-```{r}
+```{r,eval=FALSE}
 1 + 1
 ```
