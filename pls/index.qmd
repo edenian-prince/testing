@@ -1,0 +1,5 @@
+---
+title: "pls"
+---
+
+This is a Quarto website. a terrible one
