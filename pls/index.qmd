@@ -4,4 +4,6 @@ title: "pls"
 
 This is a Quarto website. a terrible one part 2dscsdc
 
-try 71
+try 72
+
+HOW DOES THIS WORK
