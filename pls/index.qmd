@@ -7,3 +7,8 @@ This is a Quarto website. a terrible one part 2dscsdc
 try 72
 
 HOW DOES THIS WORK
+
+```{r}
+head(mtcars)
+```
+

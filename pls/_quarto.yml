@@ -18,3 +18,7 @@ format:
 
 editor: visual
 
+execute: 
+  error: true
+  freeze: true
+
