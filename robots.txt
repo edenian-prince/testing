@@ -1,1 +1,1 @@
-Sitemap: https://github.com/edenian-prince/testing/sitemap.xml
+Sitemap: https://edenian-prince.github.io/testing/sitemap.xml
